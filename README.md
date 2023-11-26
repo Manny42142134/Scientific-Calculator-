@@ -1,6 +1,17 @@
 # Scientific-Calculator-
+
+#table of contents 
+[Introduction](#Introduction)
+[Key Features](#Key Features)
+[Usage Guide](#Usage Guide) 
+[Contact Information](#Contact Information)
+[Contributions](#Contributions) 
+[License](#License)
+
+
 <h2>Introduction</h2>
-<br>Welcome to the Scientific Calculator Application  This intuitive and powerful tool is designed  for normal arithmetic operations, trig functions, and number system  conversions for everyday use for a student.</br>
+<br>Welcome to the Scientific Calculator Application  This intuitive and powerful tool is designed  for normal arithmetic operations, trig functions, and number system  conversions for everyday use for a student. The reason why I made this application is that I thought that it would be pretty cool to make a calculator.</br>
+
 <h2>Key Features:</h2><br>
 Numerical Inputs & Basic Operations: Easily input any number from 0 to 9 and perform standard mathematical operations.
 
@@ -32,10 +43,13 @@ The operations highlighted in green are the buttons that every calculator has,  
 <h2>Contact Information</h2>
 <p>Mcole25@adrian.edu</p>
 
+
+
+<h2>Contributions</h2>
+First I would like to think the codemy youtube for giving me an idea of how I should code the other functions.
+if you have any problems with the code check if you have any "" errors or misspelling the word and make you import math as mth 
+https://youtu.be/BSfbjrqIw20?si=ZCn1H9_0-QaLh0Zm
+
+
 <h2>License</h2>
 Copyright (c) Manny42142134 All rights reserved.
-
-
-<h2>Acknowledgments</h2>
-First I would like to think the codemy youtube for giving me an idea of how I should code the other functions.
-https://youtu.be/BSfbjrqIw20?si=ZCn1H9_0-QaLh0Zm
