@@ -37,5 +37,5 @@ Copyright (c) Manny42142134 All rights reserved.
 
 
 <h2>Acknowledgments</h2>
-Below is a series of tutorials that guide you through a series of videos on how to code the calculator
+First I would like to think the codemy youtube for giving me an idea of how I should code the other functions.
 https://youtu.be/BSfbjrqIw20?si=ZCn1H9_0-QaLh0Zm
