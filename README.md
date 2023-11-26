@@ -16,7 +16,7 @@ Decimal Point Support: Includes functionality for handling decimal points, allow
 
 This application is very useful application because we use a calculator for everyday use in life especially students from middle school to college students.
 
-<h2>Tutorial steps</h2>
+Tutorial steps
 "C:\Users\manue\Pictures\Screenshots\Screenshot 2023-11-25 151540.png"
 
 
