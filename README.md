@@ -17,20 +17,23 @@ Decimal Point Support: Includes functionality for handling decimal points, allow
 This application is very useful application because we use a calculator for everyday use in life especially students from middle school to college students.</br>
 
 <h2>Usage guide</h2> 
-<br><p>for this tutorial, I am going to guide you step by step on how to use this software application.</p>
+<br><p> For this tutorial, I am going to guide you step by step on how to use this software application.</p>
 ![Screenshot 2023-11-25 151540](https://github.com/Manny42142134/Scientific-Calculator-/assets/151674696/4688a92c-7aad-4eeb-b2bd-adaf88cae1c1) </br>
 
 ![image](https://github.com/Manny42142134/Scientific-Calculator-/assets/151674696/e107c753-615e-402e-9e3c-a4f73543dbd1) 
 <p>for the image above shows the calculator button numbers labeled 0-9.</p> 
 
 ![Screenshot 2023-11-26 135113](https://github.com/Manny42142134/Scientific-Calculator-/assets/151674696/c1e14143-d33a-40e1-ba90-b38691cfa979)
-<p>the button numbers labeled through 0-9 interact with these functions for the trig functions highlighted in red the numbers can do sin(0-9) and so on for the other trig operations.
+<p> The button numbers labeled through 0-9 interact with these functions for the trig functions highlighted in red the numbers can do sin(0-9) and so on for the other trig operations.
 For the operations highlighted in blue, they convert the numbers to decimal, binary, octal, or hexadecimal whatever the application user wants to input the numbers to.
-
 The operations highlighted in green are the buttons that every calculator has,  you can use the numbers to divide multiply, add, and subtract. The operations highlighted in purple are the buttons to set the operations to equal or clear the display of the calculator.</p>
 
 
+<h2>Contact Information</h2>
+<p>Mcole25@adrian.edu</p>
 
+<h2>License</h2>
+Copyright (c) Manny42142134 All rights reserved.
 
 
 <h2>Acknowledgments</h2>
