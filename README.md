@@ -17,7 +17,7 @@ Decimal Point Support: Includes functionality for handling decimal points, allow
 This application is very useful application because we use a calculator for everyday use in life especially students from middle school to college students.
 
 Tutorial steps
-"C:\Users\manue\Pictures\Screenshots\Screenshot 2023-11-25 151540.png"
+![Screenshot 2023-11-25 151540](https://github.com/Manny42142134/Scientific-Calculator-/assets/151674696/4688a92c-7aad-4eeb-b2bd-adaf88cae1c1) 
 
 
 Tutorial Overview
