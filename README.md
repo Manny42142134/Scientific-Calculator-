@@ -16,12 +16,14 @@ Decimal Point Support: Includes functionality for handling decimal points, allow
 
 This application is very useful application because we use a calculator for everyday use in life especially students from middle school to college students.
 
-Tutorial steps
-![Screenshot 2023-11-25 151540](https://github.com/Manny42142134/Scientific-Calculator-/assets/151674696/4688a92c-7aad-4eeb-b2bd-adaf88cae1c1) 
+Usage guide 
+for this tutorial, I am going to guide you step by step on how to use this software application. 
+![Screenshot 2023-11-25 151540](https://github.com/Manny42142134/Scientific-Calculator-/assets/151674696/4688a92c-7aad-4eeb-b2bd-adaf88cae1c1)  
 
 
-Tutorial Overview
-Below is a series of tutorials that guide you through the development of this application using Python's Tkinter GUI toolkit:
-https://youtu.be/BSfbjrqIw20?si=ZCn1H9_0-QaLh0Zm(this is the first video of the calculator but this series only shows the simple functions of the calculator for example addition subtraction multiplication and division.) copying the leak will give you the series for the simple calculator 
 
-These tutorials cover everything from the basics of positioning widgets using the Grid system to the complete construction of a functional calculator application. They are designed to be informative and easy to follow, perfect for both beginners and experienced developers looking to enhance their skills in GUI development with Python.
+
+
+Actknowledgements 
+Below is a series of tutorials that guide through a seris of videos on how to code the
+https://youtu.be/BSfbjrqIw20?si=ZCn1H9_0-QaLh0Zm
