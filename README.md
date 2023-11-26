@@ -1,12 +1,12 @@
 # Scientific-Calculator-
 
 #table of contents 
-[Introduction](#Introduction)
-[Key Features](#Key Features)
-[Usage Guide](#Usage Guide) 
-[Contact Information](#Contact Information)
-[Contributions](#Contributions) 
-[License](#License)
+<br>[Introduction](#Introduction)</br>
+<br>[Key Features](#Key Features)</br>
+<br>[Usage Guide](#Usage Guide)</br> 
+<br>[Contact Information](#Contact Information)</br>
+<br>[Contributions](#Contributions) </br>
+<br>[License](#License)</br>
 
 
 <h2>Introduction</h2>
