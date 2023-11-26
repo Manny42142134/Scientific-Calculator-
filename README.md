@@ -1,7 +1,7 @@
 # Scientific-Calculator-
-<h1>Introduction
-Welcome to the Scientific Calculator Application  This intuitive and powerful tool is designed  for normal arithmetic operations, trig functions, and number system  conversions for everyday use for a student.
-Key Features:
+<h1>Introduction</h1>
+<br>Welcome to the Scientific Calculator Application  This intuitive and powerful tool is designed  for normal arithmetic operations, trig functions, and number system  conversions for everyday use for a student.</br>
+<h2>Key Features:</h2><br>
 Numerical Inputs & Basic Operations: Easily input any number from 0 to 9 and perform standard mathematical operations.
 
 Trigonometric Functions: Compute sine (sin), cosine (cos), and tangent (tan) functions, essential for students and professionals dealing with trigonometry.
@@ -14,11 +14,14 @@ Clear and Equal Functions: The calculator includes a clear function for resettin
 
 Decimal Point Support: Includes functionality for handling decimal points, allowing for precise and complex calculations.
 
-This application is very useful application because we use a calculator for everyday use in life especially students from middle school to college students.
+This application is very useful application because we use a calculator for everyday use in life especially students from middle school to college students.</br>
 
 Usage guide 
 for this tutorial, I am going to guide you step by step on how to use this software application. 
 ![Screenshot 2023-11-25 151540](https://github.com/Manny42142134/Scientific-Calculator-/assets/151674696/4688a92c-7aad-4eeb-b2bd-adaf88cae1c1)  
+
+![image](https://github.com/Manny42142134/Scientific-Calculator-/assets/151674696/e107c753-615e-402e-9e3c-a4f73543dbd1) 
+for this image above shows the calculator button numbers label through 0-9.  
 
 
 
