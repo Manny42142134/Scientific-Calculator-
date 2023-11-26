@@ -1,7 +1,6 @@
 # Scientific-Calculator-
-Introduction
-Welcome to the Scientific Calculator Application! This intuitive and powerful tool is designed to cater to both basic and advanced mathematical needs. At its core, the calculator supports standard numeric inputs (0-9) and basic operations, making it a reliable tool for everyday calculations.
-
+<h1>Introduction
+Welcome to the Scientific Calculator Application  This intuitive and powerful tool is designed  for normal arithmetic operations, trig functions, and number system  conversions for everyday use for a student.
 Key Features:
 Numerical Inputs & Basic Operations: Easily input any number from 0 to 9 and perform standard mathematical operations.
 
@@ -15,10 +14,14 @@ Clear and Equal Functions: The calculator includes a clear function for resettin
 
 Decimal Point Support: Includes functionality for handling decimal points, allowing for precise and complex calculations.
 
-This application is not only a handy tool for quick calculations but also a robust companion for more complex mathematical problems. Its user-friendly interface, built using Python's Tkinter GUI toolkit, ensures a smooth and responsive experience.
+This application is very useful application because we use a calculator for everyday use in life especially students from middle school to college students.
+
+<h2>Tutorial steps</h2>
+"C:\Users\manue\Pictures\Screenshots\Screenshot 2023-11-25 151540.png"
+
 
 Tutorial Overview
 Below is a series of tutorials that guide you through the development of this application using Python's Tkinter GUI toolkit:
-https://youtu.be/BSfbjrqIw20?si=ZCn1H9_0-QaLh0Zm(this is the first video to the calculator but this series only shows the simple functions of the calculator for example addition subtraction multiplication and divison.) copying the leak will give you the series for the simple calculator 
+https://youtu.be/BSfbjrqIw20?si=ZCn1H9_0-QaLh0Zm(this is the first video of the calculator but this series only shows the simple functions of the calculator for example addition subtraction multiplication and division.) copying the leak will give you the series for the simple calculator 
 
 These tutorials cover everything from the basics of positioning widgets using the Grid system to the complete construction of a functional calculator application. They are designed to be informative and easy to follow, perfect for both beginners and experienced developers looking to enhance their skills in GUI development with Python.
